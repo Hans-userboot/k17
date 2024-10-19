@@ -14,7 +14,7 @@ API_ID = int(os.environ.get("API_ID", "11662467"))
 API_HASH = os.environ.get("API_HASH", "325e13dfb76973f4bca9bdae2678bbbe")
 
 CHANNEL_DB = int(os.environ.get("CHANNEL_DB", "-1001916790133"))
-MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://client3:client4@cluster0.1okrl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://client3:client4@cluster0.rqfdz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 RESTRICT = strtobool(os.environ.get("RESTRICT", "True"))
 
